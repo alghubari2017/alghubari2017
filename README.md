@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **ALGHUBARI ALI**
+# 👋 Hi, I'm ** ALI ABDULLAH ALGHUBARI**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=ALGHUBARI%20ALI&fontSize=40&fontColor=ffffff" alt="Banner" width="100%"/>
